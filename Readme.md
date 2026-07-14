@@ -12,3 +12,5 @@ apps.
 | # | App | Path | Status | Summary |
 |---|-----|------|--------|---------|
 | 001 | Language Coach | `app/language-coach` | MVP | Local reading-diagnosis tool for domain English materials. |
+| 002 | FlowMate | `app/flowmate-macos-client` | MVP | Native macOS voice assistant with local streaming ASR and configurable shortcut phrases. |
+| 003 | [Easy Card](https://github.com/lemontom0116-maker/easy-card) | `app/markdown-card` | v0.1.0 | Native, always-on-top Markdown cards with rich editing, layouts, attachments, and CLI automation. |
